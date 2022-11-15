@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+.weather-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  width: 80%;
+}
+
+.weather-heading {
+    font-size: 3rem;
+    margin: 6rem 0;
+    color: rgba(226, 226, 226, 0.808);
+    text-align: center;
+}
+
+.nextDays-weather {
+  width: 100%;
+  height: 32%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 1080px) {
+  .header {
+    height: fit-content;
+  }
+
+  /* .weather-heading {
+    margin: 6rem 0;
+  } */
+
+  .weather-container {
+    height: fit-content;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+  .nextDays-weather {
+    flex-wrap: wrap;
+    min-height: fit-content;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    height: fit-content;
+  }
+
+  .weather-container {
+    height: fit-content;
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+  }
+
+  .nextDays-weather {
+    flex-direction: column;
+    height: fit-content;
+  }
+}

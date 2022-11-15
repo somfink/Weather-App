@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Kielce",
+    "local_names": { "pl": "Kielce" },
+    "lat": 50.85403585,
+    "lon": 20.609914352101452,
+    "country": "PL",
+    "state": "Świętokrzyskie Voivodeship"
+  },
+  {
+    "name": "Kielce",
+    "local_names": { "pl": "Kielce" },
+    "lat": 50.85403585,
+    "lon": 20.609914352101452,
+    "country": "PL",
+    "state": "Świętokrzyskie Voivodeship"
+  },
+  {
+    "name": "Kielce",
+    "local_names": {
+      "ru": "Кельце",
+      "lt": "Kelcai",
+      "he": "קיילצה",
+      "uk": "Кельце",
+      "bg": "Келце",
+      "be": "Кельцы",
+      "ar": "كيلسي",
+      "mk": "Келце",
+      "yi": "קעלץ",
+      "ka": "კელცე",
+      "zh": "凯尔采",
+      "ja": "キェルツェ",
+      "hu": "Kielce",
+      "fa": "کیلتس",
+      "lv": "Kelce",
+      "pl": "Kielce",
+      "sr": "Кјелце",
+      "ko": "키엘체"
+    },
+    "lat": 50.8719903,
+    "lon": 20.6310488,
+    "country": "PL",
+    "state": "Świętokrzyskie Voivodeship"
+  }
+]
+

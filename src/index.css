@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 62.5%;
+}
+
+body {
+    background-color: rgb(54, 47, 90);
+}
+
+@media (max-width: 375px) {
+    html {
+        font-size: 50%;
+    }
+}
